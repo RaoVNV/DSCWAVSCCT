@@ -1,6 +1,6 @@
 # DSC-WAV SCCT Analysis: Data Science Corps - Wrangle, Analyze, Visualize -- Social Cognitive Career Theory Analysis
 
-This series of projects explores students' propensity to enter a data science career after participating in a data science externship. This work was conducted as part of the NSF-funded DSC-WAV project (HDF DSC-1923700). For more about the project, visit https://dsc-wav.github.io/www/. 
+This series of projects explores students' propensity to enter a data science career after participating in a data science externship. This work was conducted as part of the NSF-funded DSC-WAV project (HDF DSC-1923700). For more about the DSC-WAV project, visit https://dsc-wav.github.io/www/. For more about the SCCT Analysis project, contact V.N. Vimal Rao at rao00013@umn.edu. 
 
 
 ## USCOTS 2021
