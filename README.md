@@ -7,3 +7,5 @@ This series of projects explores students' propensity to enter a data science ca
 Title: Students’ perspectives on entering a data science career after experiential learning with local community organizations <br>
 Authors: V.N. Vimal Rao, Chelsey Legacy, and Andrew Zieffler <br>
 This poster presents the initial results from the qualitative coding of student interviews. Three themes in students responses are identified and compared to the predictions of the SCCT model for career choice. 
+
+Video Presentation: https://www.youtube.com/watch?v=4W3AaD1kM40
